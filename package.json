@@ -1,0 +1,14 @@
+{
+  "name": "clicrafting",
+  "version": "1.0.0",
+  "description": "Simple browser based, command line based crafting game",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dominik Sigmund",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
